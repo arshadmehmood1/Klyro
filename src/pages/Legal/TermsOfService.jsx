@@ -129,7 +129,7 @@ export default function TermsOfService() {
             </p>
             <div className="bg-accent-light/50 border border-accent/10 rounded-2xl p-6 text-sm text-text-light">
               <p className="font-bold text-primary mb-1">Klyro Agency</p>
-              <p>Email: <a href="mailto:hello@klyro.com" className="text-accent font-bold hover:underline">hello@klyro.com</a></p>
+              <p>Email: <a href="mailto:hello@klyro.work" className="text-accent font-bold hover:underline">hello@klyro.work</a></p>
               <p>Address: Specialized local growth for plumbing businesses worldwide.</p>
             </div>
           </section>

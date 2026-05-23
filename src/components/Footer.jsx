@@ -27,10 +27,10 @@ export default function Footer() {
               Specialized web agency building high-performance websites for plumbers across the USA & UK.
             </p>
             <a 
-              href="mailto:hello@klyro.com"
+              href="mailto:hello@klyro.work"
               className="inline-flex items-center gap-2 text-sm text-accent hover:underline transition-colors mt-2"
             >
-              <Mail className="w-4 h-4" /> hello@klyro.com
+              <Mail className="w-4 h-4" /> hello@klyro.work
             </a>
           </div>
 
