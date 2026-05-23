@@ -41,11 +41,13 @@ export default function ContactForm() {
     };
 
     try {
-      await emailjs.send(SERVICE_ID, TEMPLATE_ID, templateParams, PUBLIC_KEY);
+      await emailjs.send(SERVICE_ID, TEMPLATE_ID, templateParams, {
+        publicKey: PUBLIC_KEY
+      });
       setStatus('success');
     } catch (error) {
       console.error('EmailJS Error:', error);
-      setErrorMessage(error?.text || 'Something went wrong. Please email us at hello@klyro.com');
+      setErrorMessage(error?.text || 'Something went wrong. Please email us at hello@klyro.work');
       setStatus('error');
     }
   };
