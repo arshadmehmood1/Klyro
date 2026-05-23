@@ -29,7 +29,7 @@ export default function ContactForm() {
 
     // EmailJS Configurations
     const SERVICE_ID = 'service_0rx4iqf';
-    const TEMPLATE_ID = 'template_zlyh2ga';
+    const TEMPLATE_ID = 'template_fd7rbnj';
     const PUBLIC_KEY = 'jCVUBhK8PvdhShXOG';
 
     // Build template params to match your EmailJS template variables:
