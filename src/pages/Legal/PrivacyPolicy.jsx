@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
       <Helmet>
         <title>Privacy Policy | Klyro Agency</title>
         <meta name="description" content="Read the official Privacy Policy of Klyro, detailing how we collect, store, and protect your business details and contact details." />
-        <link rel="canonical" href="https://klyro.com/privacy-policy" />
+        <link rel="canonical" href="https://klyro.work/privacy-policy" />
       </Helmet>
       <div className="max-w-4xl mx-auto px-6">
         

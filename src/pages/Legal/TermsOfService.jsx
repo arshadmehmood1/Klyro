@@ -9,7 +9,7 @@ export default function TermsOfService() {
       <Helmet>
         <title>Terms of Service | Klyro Agency</title>
         <meta name="description" content="Read the official Terms of Service of Klyro, detailing project guidelines, one-time builds, and ongoing monthly maintenance rules." />
-        <link rel="canonical" href="https://klyro.com/terms-of-service" />
+        <link rel="canonical" href="https://klyro.work/terms-of-service" />
       </Helmet>
       <div className="max-w-4xl mx-auto px-6">
         

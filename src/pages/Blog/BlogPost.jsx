@@ -147,7 +147,7 @@ export default function BlogPost() {
       <Helmet>
         <title>{`${post.title} | Klyro Blog`}</title>
         <meta name="description" content={post.excerpt} />
-        <link rel="canonical" href={`https://klyro.com/blog/${post.slug}`} />
+        <link rel="canonical" href={`https://klyro.work/blog/${post.slug}`} />
       </Helmet>
       <div className="max-w-4xl mx-auto px-6">
         

@@ -28,7 +28,7 @@ export default function BlogIndex() {
       <Helmet>
         <title>Plumbing Marketing Insights & Tips | Klyro Blog</title>
         <meta name="description" content="Discover powerful guides on local SEO, Google Business Profile setups, and high-converting web design tips specifically written for plumbing businesses." />
-        <link rel="canonical" href="https://klyro.com/blog" />
+        <link rel="canonical" href="https://klyro.work/blog" />
       </Helmet>
       <div className="max-w-6xl mx-auto px-6">
         
